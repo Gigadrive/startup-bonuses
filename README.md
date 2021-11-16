@@ -6,6 +6,7 @@ Many companies offer promotions and discounts for new startups to help their gro
 ## Cloud & SaaS
 
 * **[AWS Activate](https://aws.amazon.com/activate/)** - Free Amazon Web Services credits
+* **[DigitalOcean Free Trial](https://try.digitalocean.com/freetrialoffer/)** - $100 credit for DigitalOcean cloud services
 * **[Google Cloud Free Tier](https://cloud.google.com/free)** - Free access to Google Cloud with 300€ credit for new customers
 * **[Microsoft for Startups](https://startups.microsoft.com/)** - Free Azure credits, Microsoft 365, GitHub Enterprise and more
 * **[Zendesk Startup Program](https://www.zendesk.com/startups/)** - Free, unlimited access to Zendesk products for six months
