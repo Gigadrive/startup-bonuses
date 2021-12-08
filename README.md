@@ -9,6 +9,7 @@ Many companies offer promotions and discounts for new startups to help their gro
 * **[DigitalOcean Free Trial](https://try.digitalocean.com/freetrialoffer/)** - $100 credit for DigitalOcean cloud services
 * **[Google Cloud Free Tier](https://cloud.google.com/free)** - Free access to Google Cloud with 300€ credit for new customers
 * **[Microsoft for Startups](https://startups.microsoft.com/)** - Free Azure credits, Microsoft 365, GitHub Enterprise and more
+* **[Telekom TechBoost](https://telekomhilft.telekom.de/t5/TechBoost/ct-p/techboost)** - Up to 100.000€ credit for Open Telekom Cloud
 * **[Zendesk Startup Program](https://www.zendesk.com/startups/)** - Free, unlimited access to Zendesk products for six months
 
 ## Software
